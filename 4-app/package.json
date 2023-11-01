@@ -32,5 +32,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Aquí encontrarás el código del styleguide y de la página terminada.\r Éste proyecto fue creado con create react app e incluye únicamente\r las funcionalidades básicas de un proyecto en react.\r [Create React App](https://github.com/facebook/create-react-app)",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
